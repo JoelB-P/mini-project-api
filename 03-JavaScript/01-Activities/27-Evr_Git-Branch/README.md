@@ -50,7 +50,7 @@ git commit -m "creating a top level readme"
   ```bash
   git branch
   ```
-
+gi
 * You should see the `feature/create-js-file` branch and a `*` next to `main`, as shown in the following image:
 
 * We should now see a `*` by `feature/create-js-file`, letting us know this is the branch we are on, as shown in the following image:
